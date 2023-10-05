@@ -181,3 +181,50 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
 
+
+
+
+
+
+
+
+
+
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+## Motor_control
+
+
+### Description & Code Snippets
+
+  * The goal of the assignment was to control motor with the speeding button. 
+  * I accomplish to my goal by using goal and ask firend for help and using my idea also I take a step by step top accomplish to my goial.
+  * motors can draw a lot more juice (current) than LEDs.  In fact, they draw so much current, we don't want to power them directly from the Arduino.  That might fry the Arduino.  So, we will power our motor directly from a 6 V battery pack.
+ 
+
+
+
+
+
+
+
+### Evidence
+
+
+
+
+
+
+
+
+
+### Wiring
+
+
+
+
+
+### Reflection
