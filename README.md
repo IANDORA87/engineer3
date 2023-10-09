@@ -192,7 +192,7 @@ Don't just tell the reader what went wrong or was challenging!  Describe how you
 
 
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 ## Motor_control
@@ -203,19 +203,13 @@ ________________________________________________________________________________
   * The goal of the assignment was to control motor with the speeding button. 
   * I accomplish to my goal by using goal and ask firend for help and using my idea also I take a step by step top accomplish to my goial.
   * motors can draw a lot more juice (current) than LEDs.  In fact, they draw so much current, we don't want to power them directly from the Arduino.  That might fry the Arduino.  So, we will power our motor directly from a 6 V battery pack.
+
  
-
-
-
-
-
-
-
 ### Evidence
 
+    *  https://www.tinkercad.com/things/brGb4NP2EIS-writing-the-code/editel?lessonid=E2IR521ISCBY8RV&projectid=O73WOLIISCC2EWG#/lesson-viewer
 
-
-
+    * this is link for tinkercad
 
 
 
@@ -231,3 +225,6 @@ ________________________________________________________________________________
 
 
 ### Reflection
+
+
+  * It is very helpful to using something like Motor because it can go forward and backward when I was use the Motor it was fun for me because it is going forward and backward but it is more when you are using the Motor on your projects. whenever I have projcet I use      motor control or tt motor. However the motor control is something to use in your project. It was little hard to find the wiring but the code was easy to find for motor control it was very short code for motor control.
