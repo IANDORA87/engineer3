@@ -45,15 +45,20 @@ ________________________________________________________________________________
 
 
 
-### Description & Code Snippets
+### Description 
 
+   * The purpose of this assignment is to build or design the Hanger and practice with onshape and getting using to onshape and you have match the mass from your design to the assingment mass.
 
 
 ### Evidence
 
+   *  blob:chrome-untrusted://media-app/9883afb7-8785-4038-8002-6f930bdf492d
+   *  blob:chrome-untrusted://media-app/7d4ad6c8-954f-4423-a3b5-0a8eda5f27ac
+   *  
+
+### Part Link 
 
 
-### Wiring
 
 
 
@@ -76,7 +81,8 @@ ________________________________________________________________________________
 
 
 
-### Wiring
+### Part Link 
+
 
 
 
