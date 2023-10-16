@@ -102,5 +102,71 @@ ________________________________________________________________________________
  * This is assignment  I have to work on the  Designing Swing Arm I work on it for 3 hours to do it. To make everything I use a lot of new tools because it makeing easy for me and  i don't have to use line tool there are other tool that make mach easy  and yeah this is everything i did in this assignment just make the Designing the swing arm. This assignment was kind of easily for me to do because my first reason is that you just copy and it show you what to do. My next reason is that you don't have build same thing for different size you can just use the configurations tool to help you with it. In this assignment it will be very easily if you use the tool call configurations it is very helpful. It can help you with a lot different things. For example, it helps you with different size and different colors.
 
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Photointerrupters
+
+
+### Description & Code Snippets
+
+  * The goal of the assignment was to use the Photointerrupters. 
+  * I accomplish to my goal by using my ideas and ask firend for help and using my friend idea also I take a step by step top accomplish to my goial.
+  * Photointerrupters Wire up a circuit that will turn on when something is in between the legs of the photointerrupter.
+
+
+
+  * from digitalio import DigitalInOut, Direction, Pull
+import time
+import board
+
+interrupter = DigitalInOut(board.D7)
+interrupter.direction = Direction.INPUT
+interrupter.pull = Pull.UP
+
+counter = 0
+
+photo = False
+state = False
+
+max = 1
+start = time.time()
+
+while True:
+    photo = interrupter.value
+    if photo and not state:
+            counter += 1
+    state = photo
+
+    remaining = max - time.time()
+
+    if remaining <= 0:
+        print("Interrupts:", str(counter))
+        max = time.time() + 1
+        counter = 0
+
+
+ 
+### Evidence
+
+
+  * 
+
+
+
+
+### Wiring
+
+
+  * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/a7029ac8-77a8-4157-ad6c-509af27e89be)
+  * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/963a9b84-47e7-4da9-94eb-015809329444)
+
+
+
+### Reflection
+
+  * This assignment is not easy and not hard because when I start this assignment it take me a lot of time because of coding  so the thing was that my coding was right but the Photo-interrupters was not working and I pet so many different coding but the thing was that my coding was not working I ask for help from  teacher and the teacher tell me that my Photo Interrupters was not working.
+
+
+
 
 
