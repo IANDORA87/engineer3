@@ -170,4 +170,62 @@ while True:
 
 
 
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+## CircuitPython Servo
+ 
+
+
+### Description & Code Snippets
+
+  * Get a 180° micro servo to slowly sweep back and forth between 0 and 180°. Spicy part: Now control the servo with 2 buttons. The servo only moves if you are pushing a button.
+
+
+
+
+  * import time
+import board
+from digitalio import DigitalInOut, Direction, Pull
+
+btn1 = DigitalInOut(board.D9)
+btn1.direction = Direction.INPUT
+btn1.pull = Pull.DOWN
+
+btn2 = DigitalInOut(board.D10)
+btn2.direction = Direction.INPUT
+btn2.pull = Pull.DOWN
+
+while True:
+    if  btn1.value:
+        print("BTN1 is pressed")
+
+    if  btn2.value:
+        print("BTN2 is pressed")
+       
+
+    time.sleep(0.1) # sleep for debounce
+
+   
+ 
+### Evidence
+    
+
+  * 
+
+
+### Wiring
+
+
+  * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/5c4af0d8-5d09-405a-83b1-e99f6da88e4a)
+
+
+
+### Reflection
+
+ 
+
+  * I learn that how to do the code for this assingment. It take me 2 day because of the coding and I didn't do coding for long now this was the frist assingment for this year.I work on my code for 2 day. I found that my 1 wire was on pule than I fix my wire and I did my coding and other things as will. One things that I used help a lot of time from Mr. David.
+
+
 
