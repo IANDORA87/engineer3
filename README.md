@@ -211,7 +211,6 @@ while True:
 ### Evidence
     
 
-  * t-2jD4PjJYDF8TbSFLgCmqNALdYzfqbdie
 
 ### Wiring
 
@@ -225,6 +224,45 @@ while True:
  
 
   * I learn that how to do the code for this assingment. It take me 2 day because of the coding and I didn't do coding for long now this was the frist assingment for this year.I work on my code for 2 day. I found that my 1 wire was on pule than I fix my wire and I did my coding and other things as will. One things that I used help a lot of time from Mr. David.
+
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+### CircuitPython Distance Sensor
+ 
+
+
+### Description & Code Snippets
+
+  * I've broken the assignment into 3 stages, to make your life easier:
+
+  * Use the HC-SR04 to measure the distance to an object and print that out to your serial monitor or LCD in cm.
+    Next, you will get the neopixel to turn red when your object is less than 5cm, and green when its 35cm.  Ignore the blue and 20cm for now, let's just keep it simple.
+    For your final version of this code, you'll smoothly shift the color of the onboard neopixel, corresponding to the distance, according to the graphic below.
+    (Neopixel should stay red when below 5cm and green when above 35cm)
+
+ 
+### Evidence
+
+ 
+
+ * https://github.com/IANDORA87/engineer3/assets/143534987/f2597999-57a9-4170-a937-4a6be8cfaa36
+
+
+
+### Wiring
+
+ * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/21dbde8e-a2a1-4571-a597-396530ac50ab)
+
+
+
+
+### Reflection
+
+
+ * This was assignment that I did in engineer 2 and I did once again. However, I want to make something fun and work on something in my class time in engineer so I work on this in my class time. This year the code was much differet.
+
 
 
 
