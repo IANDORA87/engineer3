@@ -9,7 +9,26 @@ ________________________________________________________________________________
   * I accomplish to my goal by using goal and ask firend for help and using my idea also I take a step by step top accomplish to my goial.
   * motors can draw a lot more juice (current) than LEDs.  In fact, they draw so much current, we don't want to power them directly from the Arduino.  That might fry the Arduino.  So, we will power our motor directly from a 6 V battery pack.
 
- 
+  * import time
+import board
+import pwmio
+from analogio import AnalogIn
+from digitalio import DigitalInOut, Direction, Pull
+
+motor = pwmio.PWMOut(board.D9, frequency=50)
+
+
+
+
+pot = AnalogIn(board.A1)
+
+
+
+while True:
+  print(pot.value)
+  time.sleep(0.1)
+  motor.duty_cycle=pot.value
+  
 ### Evidence
 
     *  https://www.tinkercad.com/things/brGb4NP2EIS-writing-the-code/editel?lessonid=E2IR521ISCBY8RV&projectid=O73WOLIISCC2EWG#/lesson-viewer
@@ -244,6 +263,25 @@ ________________________________________________________________________________
     Next, you will get the neopixel to turn red when your object is less than 5cm, and green when its 35cm.  Ignore the blue and 20cm for now, let's just keep it simple.
     For your final version of this code, you'll smoothly shift the color of the onboard neopixel, corresponding to the distance, according to the graphic below.
     (Neopixel should stay red when below 5cm and green when above 35cm)
+
+    * import time
+import board
+
+import adafruit_hcsr04
+
+sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D5, echo_pin=board.D6)
+
+
+while True:
+    try:
+        print((sonar.distance,))
+    except RuntimeError:
+        print("Retrying!")
+        pass
+    time.sleep(0.1)
+       
+
+    time.sleep(0.1) # sleep for debounce ****
 
  
 ### Evidence
