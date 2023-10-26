@@ -10,24 +10,24 @@ ________________________________________________________________________________
   * motors can draw a lot more juice (current) than LEDs.  In fact, they draw so much current, we don't want to power them directly from the Arduino.  That might fry the Arduino.  So, we will power our motor directly from a 6 V battery pack.
 
   * import time
-import board
-import pwmio
-from analogio import AnalogIn
-from digitalio import DigitalInOut, Direction, Pull
+    import board
+    import pwmio
+    from analogio import AnalogIn
+    from digitalio import DigitalInOut, Direction, Pull
 
-motor = pwmio.PWMOut(board.D9, frequency=50)
-
-
+    motor = pwmio.PWMOut(board.D9, frequency=50)
 
 
-pot = AnalogIn(board.A1)
+
+
+   pot = AnalogIn(board.A1)
 
 
 
 while True:
-  print(pot.value)
-  time.sleep(0.1)
-  motor.duty_cycle=pot.value
+     print(pot.value)
+     time.sleep(0.1)
+     motor.duty_cycle=pot.value
   
 ### Evidence
 
@@ -265,18 +265,18 @@ ________________________________________________________________________________
     (Neopixel should stay red when below 5cm and green when above 35cm)
 
     * import time
-import board
+     import board
 
-import adafruit_hcsr04
+     import adafruit_hcsr04
 
-sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D5, echo_pin=board.D6)
+     sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D5, echo_pin=board.D6)
 
 
 while True:
-    try:
-        print((sonar.distance,))
+      try:
+           print((sonar.distance,))
     except RuntimeError:
-        print("Retrying!")
+           print("Retrying!")
         pass
     time.sleep(0.1)
        
