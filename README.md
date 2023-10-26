@@ -9,7 +9,11 @@ ________________________________________________________________________________
   * I accomplish to my goal by using goal and ask firend for help and using my idea also I take a step by step top accomplish to my goial.
   * motors can draw a lot more juice (current) than LEDs.  In fact, they draw so much current, we don't want to power them directly from the Arduino.  That might fry the Arduino.  So, we will power our motor directly from a 6 V battery pack.
 
-  * import time
+
+
+
+
+   import time
     import board
     import pwmio
     from analogio import AnalogIn
