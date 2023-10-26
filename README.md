@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 
 
-   import time
+*   import time
     import board
     import pwmio
     from analogio import AnalogIn
@@ -306,7 +306,7 @@ while True:
 ### Reflection
 
 
- * This was assignment that I did in engineer 2 and I did once again. However, I want to make something fun and work on something in my class time in engineer so I work on this in my class time. This year the code was much differet.
+ * This was an assignment that I did in engineer 2 and I did once again. However, I want to make something fun and work on something in my class time in engineer so I work on this in my class time. This year the code was much different.
 
 
 
