@@ -32,6 +32,7 @@ while True:
      print(pot.value)
      time.sleep(0.1)
      motor.duty_cycle=pot.value
+
   
 ### Evidence
 
@@ -70,7 +71,8 @@ ________________________________________________________________________________
 
 ### Description 
 
-   * The purpose of this assignment is to build or design the Hanger and practice with onshape and getting using to onshape and you have match the mass from your design to the assingment mass. 
+   * The purpose of this assignment is to build or design the Hanger and practice with onshape and getting using to onshape and you have match the mass from your design to the assingment mass.
+   * Create this part in Onshape.
 
 
 ### Evidence
@@ -105,6 +107,9 @@ ________________________________________________________________________________
 ### Description
 
    * The purpose of this assignment is to build or design the swing arm and practice with onshape and getting using to onshape and you have match the mass from your design to the assingment mass. the swomg arm should be done with the right mass and design.
+   * Create this part in Onshape.
+
+
 
 ### Evidence
 
@@ -270,7 +275,9 @@ ________________________________________________________________________________
     For your final version of this code, you'll smoothly shift the color of the onboard neopixel, corresponding to the distance, according to the graphic below.
     (Neopixel should stay red when below 5cm and green when above 35cm)
 
-    * import time
+
+
+     * import time
      import board
 
      import adafruit_hcsr04
