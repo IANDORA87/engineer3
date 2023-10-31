@@ -143,7 +143,7 @@ ________________________________________________________________________________
   * I accomplish to my goal by using my ideas and ask firend for help and using my friend idea also I take a step by step top accomplish to my goial.
   * Photointerrupters Wire up a circuit that will turn on when something is in between the legs of the photointerrupter.
 
-
+```
 
   * from digitalio import DigitalInOut, Direction, Pull
 import time
@@ -174,7 +174,7 @@ while True:
         max = time.time() + 1
         counter = 0
 
-
+```
  
 ### Evidence
 
@@ -212,7 +212,7 @@ ________________________________________________________________________________
   * Get a 180° micro servo to slowly sweep back and forth between 0 and 180°. Spicy part: Now control the servo with 2 buttons. The servo only moves if you are pushing a button.
 
 
-
+```
 
   * import time
 import board
@@ -236,7 +236,7 @@ while True:
 
     time.sleep(0.1) # sleep for debounce
 
-   
+   ```
  
 ### Evidence
     
@@ -276,7 +276,7 @@ ________________________________________________________________________________
     (Neopixel should stay red when below 5cm and green when above 35cm)
 
 
-
+```
      * import time
      import board
 
@@ -295,7 +295,7 @@ while True:
        
 
     time.sleep(0.1) # sleep for debounce ****
-
+```
  
 ### Evidence
 
