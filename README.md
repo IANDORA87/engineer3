@@ -12,8 +12,8 @@ ________________________________________________________________________________
 
 
 
-"""
-*   import time
+```
+    import time
     import board
     import pwmio
     from analogio import AnalogIn
@@ -32,7 +32,7 @@ while True:
      print(pot.value)
      time.sleep(0.1)
      motor.duty_cycle=pot.value
-"""
+```
   
 ### Evidence
 
