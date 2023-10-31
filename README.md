@@ -38,7 +38,7 @@ while True:
 
     *  https://www.tinkercad.com/things/brGb4NP2EIS-writing-the-code/editel?lessonid=E2IR521ISCBY8RV&projectid=O73WOLIISCC2EWG#/lesson-viewer
 
-    * this is link for tinkercad
+    *    * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/5d562fad-3a4a-4833-9f7a-eaea2fdb499e)
 
 
 
