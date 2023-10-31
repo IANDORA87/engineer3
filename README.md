@@ -36,9 +36,8 @@ while True:
   
 ### Evidence
 
-    *  https://www.tinkercad.com/things/brGb4NP2EIS-writing-the-code/editel?lessonid=E2IR521ISCBY8RV&projectid=O73WOLIISCC2EWG#/lesson-viewer
-
-    *    * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/5d562fad-3a4a-4833-9f7a-eaea2fdb499e)
+  
+   * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/5d562fad-3a4a-4833-9f7a-eaea2fdb499e)
 
 
 
@@ -46,7 +45,6 @@ while True:
 
 ### Wiring
 
-   * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/5d562fad-3a4a-4833-9f7a-eaea2fdb499e)
    * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/f6ea0824-a370-4ba4-8cf4-1b1a726c3167)
 
 
