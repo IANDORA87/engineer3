@@ -1,4 +1,4 @@
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Motor_control
 
@@ -60,7 +60,7 @@ while True:
 
 
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Practice Design from Drawings: The Hanger
 
@@ -130,7 +130,7 @@ ________________________________________________________________________________
  * This is assignment  I have to work on the  Designing Swing Arm I work on it for 3 hours to do it. To make everything I use a lot of new tools because it makeing easy for me and  i don't have to use line tool there are other tool that make mach easy  and yeah this is everything i did in this assignment just make the Designing the swing arm. This assignment was kind of easily for me to do because my first reason is that you just copy and it show you what to do. My next reason is that you don't have build same thing for different size you can just use the configurations tool to help you with it. In this assignment it will be very easily if you use the tool call configurations it is very helpful. It can help you with a lot different things. For example, it helps you with different size and different colors.
 
 
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Photointerrupters
 
@@ -202,7 +202,7 @@ https://github.com/IANDORA87/engineer3/assets/143534987/2e41991f-bfab-4699-8bdd-
 
 
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 ## CircuitPython Servo
@@ -320,5 +320,77 @@ while True:
  * This was an assignment that I did in engineer 2 and I did once again. However, I want to make something fun and work on something in my class time in engineer so I work on this in my class time. This year the code was much different.
 
 
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Multi-Part Design Studios - Practice
+
+
+
+### Description 
+
+   * The purpose of this assignment is to build or design the Multi and practice with onshape and getting using to onshape and you have match the mass from your design to the assingment mass.
+   * Create this part in Onshape.
+   * Make a copy of this document.Links to an external site. Rename the and replace COpy with your name. Create all of the parts needed for the assembly.  The cylinder is given as a starting point. Answer the 4 questions below.  There is a question         about the initial assembly and then one for each of the three revisions to the product. You should be able to complete this assignment in 1 hour.
+
+
+### Evidence
+
+    * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/e3b23fee-ec25-4547-b1e8-a82f063aaead)
+    * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/5711e6ba-3189-400f-8e50-f5e1041a8f19)
+    * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/330a316f-39b2-4c79-9fb9-9ade83ceae9c)
+
+
+
+ 
+### Part Link 
+
+    * https://cvilleschools.onshape.com/documents/c0b0d21d9816f0cc3227ca95/w/4d1053f94fb2b740f1917346/e/dc1d462e49ce69e18c07431f?renderMode=0&uiState=6543b9d4726bd742ec2ba739
+ 
+  
+
+
+### Reflection
+
+
+  * The Multi was easy and hard to build or design it but it was also fun too because I whited too long for this type of assinmnets. It is very fun to get use to onshape and design something good and using new tools. In this assignment thanks to the teacher because the teacher help us with some of the details to make this assingment easily for us. In this assignment you can help with friend and classmade. 
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Onshape Certification Prep - Single Part
+
+
+
+### Description 
+
+   *OPEN THIS DOCUMENT: CLICK HERELinks to an external site.
+
+    Follow the instructions for each question. Refer to the Certified Onshape Associate Practice Exam if needed.Download Refer to the Certified Onshape Associate Practice Exam if needed.
+
+    Record the mass from the following options detailed in the instructions. 
+
+    Enter the masses into this quiz.
+ 
+
+### Evidence
+
+  
+   * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/914c5275-341d-4440-b741-122cc5d9d3e2)
+   * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/53ab13db-6c13-4dd0-a5a3-96c16a9f297c)
+   * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/f2538623-1fe2-4e20-a86e-0a2bd63b83f5)
+
+
+
+
+ 
+### Part Link 
+
+   * https://cvilleschools.onshape.com/documents/106a883062ba2d5ee06b2ea0/w/c3d20bc00dd398fb26426412/e/5765b5a06809f5c5e3e749fa?renderMode=0&uiState=6543bc139e69cb3f67d21e1f
+  
+
+### Reflection
+
+   * This is the Onshape Certification Prep - Single Part in this assignment we have to build and then  we have to see if the mass is the same what they told us in assingment. However in this assingment it takes me more hours to finish everything but using  onshape is very fun for me more than coding. Coding is kind of hard for me because I have to write but in onshape  it is vary easy because you just have to look at the drawing and just draw it on onshape is kind like art class you just have to draw on onshape.
 
 
