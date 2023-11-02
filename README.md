@@ -347,10 +347,8 @@ ________________________________________________________________________________
  
 ### Part Link 
 
-    * https://cvilleschools.onshape.com/documents/c0b0d21d9816f0cc3227ca95/w/4d1053f94fb2b740f1917346/e/dc1d462e49ce69e18c07431f?renderMode=0&uiState=6543b9d4726bd742ec2ba739
- 
-  
-
+[https://cvilleschools.onshape.com/documents/c0b0d21d9816f0cc3227ca95/w/4d1053f94fb2b740f1917346/e/dc1d462e49ce69e18c07431f?renderMode=0&uiState=6543e9c8c034e00cd6034d28
+](https://cvilleschools.onshape.com/documents/c0b0d21d9816f0cc3227ca95/w/4d1053f94fb2b740f1917346/e/dc1d462e49ce69e18c07431f?renderMode=0&uiState=6543e9c8c034e00cd6034d28)
 
 ### Reflection
 
