@@ -356,7 +356,7 @@ ________________________________________________________________________________
   * The Multi was easy and hard to build or design it but it was also fun too because I whited too long for this type of assinmnets. It is very fun to get use to onshape and design something good and using new tools. In this assignment thanks to the teacher because the teacher help us with some of the details to make this assingment easily for us. In this assignment you can help with friend and classmade. 
 
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Onshape Certification Prep - Single Part
 
@@ -392,5 +392,72 @@ ________________________________________________________________________________
 ### Reflection
 
    * This is the Onshape Certification Prep - Single Part in this assignment we have to build and then  we have to see if the mass is the same what they told us in assingment. However in this assingment it takes me more hours to finish everything but using  onshape is very fun for me more than coding. Coding is kind of hard for me because I have to write but in onshape  it is vary easy because you just have to look at the drawing and just draw it on onshape is kind like art class you just have to draw on onshape.
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+##  Onshape CAD Challenge: Alignment Plate
+
+
+### Description 
+
+ The Onshape CAD Challenges are a great way to practice for the Onshape Certification Exam. These challenges record the time you spent designing your Onshape document and allow you to compare your results with the average amount of time spent. It also checks your work automatically when you record the mass of a part. 
+
+
+### Evidence
+
+  
+ * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/7fecc7b0-47dc-4263-918d-1955bf799fed)
+ * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/70764eb7-f120-46a2-8095-ee33b0889633)
+ * ![image](https://github.com/IANDORA87/engineer3/assets/143534987/41f28d14-b765-405b-b3d7-71d3ae3b4253)
+
+
+
+ 
+
+ 
+### Part Link 
+
+[](https://cvilleschools.onshape.com/documents/39271a25eca3ea6bfb86461b/w/f584e9172593ab46c305ede7/e/e3cdbba71d3b4d7f9e6d0d9b?renderMode=0&uiState=654d083369578f18e2823aca)    
+  
+
+### Reflection
+
+ In this assignment I learn something new something I didn't know before. It was very eassy and fun I enjoy working on this assignmet. It helped me to get use to Onshape and  how to Submit something in Onshape or how to start assingment in Onshape.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+##  Onshape Certification Prep 2: Multi-Part
+
+
+### Description 
+
+OPEN THIS DOCUMENT: CLICK HERELinks to an external site.
+
+Follow the instructions for each question. Refer to the Certified Onshape Associate Practice Exam if needed.Download Refer to the Certified Onshape Associate Practice Exam if needed.
+
+Record the mass from the following options detailed in the instructions.
+
+Enter the masses into this quiz. 
+
+ 
+
+### Evidence
+
+  
+![image](https://github.com/IANDORA87/engineer3/assets/143534987/093fb1e9-ccb5-4fe0-9d1a-1ec1c0c5e6b7)
+![image](https://github.com/IANDORA87/engineer3/assets/143534987/1975dfbe-f1cd-4e37-ac28-5b88527a4a6c)
+![image](https://github.com/IANDORA87/engineer3/assets/143534987/903ccdbb-5249-4cd9-ba6d-73e37fe929f2)
+![image](https://github.com/IANDORA87/engineer3/assets/143534987/24e77464-0c93-4192-8a6b-7fd439eb7d18)
+
+ 
+### Part Link 
+
+  https://cvilleschools.onshape.com/documents/d1af293027a195be63d0ab1b/w/4a159a7d0ac7df8a525a8f1b/e/e667394a888e90dd3414fc7b?renderMode=0&uiState=654d0a94b9fc7e7f814686b0
+  
+
+
+
+### Reflection
 
 
