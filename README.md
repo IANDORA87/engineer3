@@ -419,7 +419,7 @@ ________________________________________________________________________________
  
 ### Part Link 
 
-[](https://cvilleschools.onshape.com/documents/39271a25eca3ea6bfb86461b/w/f584e9172593ab46c305ede7/e/e3cdbba71d3b4d7f9e6d0d9b?renderMode=0&uiState=654d083369578f18e2823aca)    
+(https://cvilleschools.onshape.com/documents/39271a25eca3ea6bfb86461b/w/f584e9172593ab46c305ede7/e/e3cdbba71d3b4d7f9e6d0d9b?renderMode=0&uiState=654d083369578f18e2823aca)    
   
 
 ### Reflection
@@ -460,4 +460,5 @@ Enter the masses into this quiz.
 
 ### Reflection
 
+This assignment was very straightforward but I still learned a lot.  I learned how to use the Onshape tools which is a great way to see what is happening to my degin.  I also learned about using how to submit in Onshape. This is going to be a challenging class but I know if I put in the effort and ask for help when needed, I will succeed.
 
