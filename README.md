@@ -462,3 +462,25 @@ Enter the masses into this quiz.
 
 This assignment was very straightforward but I still learned a lot.  I learned how to use the Onshape tools which is a great way to see what is happening to my degin.  I also learned about using how to submit in Onshape. This is going to be a challenging class but I know if I put in the effort and ask for help when needed, I will succeed.
 
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+## Onshape Certification Prep - Assemblies 
+
+
+### Description 
+
+
+
+### Evidence
+
+
+ 
+### Part Link 
+
+  
+
+
+
+### Reflection
+
