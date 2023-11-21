@@ -470,17 +470,29 @@ ________________________________________________________________________________
 
 ### Description 
 
+OPEN THIS DOCUMENT: CLICK HERELinks to an external site.
 
+Follow the instructions for each question. Refer to the Certified Onshape Associate Practice Exam if needed.Download Refer to the Certified Onshape Associate Practice Exam if needed.
+
+Record the answer from the following options detailed in the instructions.
+
+Enter the answer into this quiz. 
 
 ### Evidence
+
+<img src="blob:chrome-untrusted://media-app/023435e8-e19c-48e9-adda-07e5d34ce9cf" alt="Assembly 1.png"/>![image](https://github.com/IANDORA87/engineer3/assets/143534987/5f3c3d81-1a87-4fe4-8187-8aa9c122336e)
+
+<img src="blob:chrome-untrusted://media-app/63b29689-9bdb-44f1-8753-5ce86315bb69" alt="Assembly 1 (1).png"/>![image](https://github.com/IANDORA87/engineer3/assets/143534987/1548c966-5cbf-4f4d-8db8-6fc8cbff92bb)
 
 
  
 ### Part Link 
 
   
+https://cvilleschools.onshape.com/documents/673a5044c29999b47cfc0d74/w/0043391907221b6fbc70a543/e/394ab18a008fadafc11ef8eb?renderMode=0&uiState=655ceda663a1b95144112756
 
 
 
 ### Reflection
 
+The  Certification Prep - Assemblies was kind of hard for me to put it togther. But I fun working on it and enjoy that how hard was it.  
