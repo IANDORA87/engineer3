@@ -480,9 +480,8 @@ Enter the answer into this quiz.
 
 ### Evidence
 
-<img src="blob:chrome-untrusted://media-app/023435e8-e19c-48e9-adda-07e5d34ce9cf" alt="Assembly 1.png"/>![image](https://github.com/IANDORA87/engineer3/assets/143534987/5f3c3d81-1a87-4fe4-8187-8aa9c122336e)
-
-<img src="blob:chrome-untrusted://media-app/63b29689-9bdb-44f1-8753-5ce86315bb69" alt="Assembly 1 (1).png"/>![image](https://github.com/IANDORA87/engineer3/assets/143534987/1548c966-5cbf-4f4d-8db8-6fc8cbff92bb)
+ >![image](https://github.com/IANDORA87/engineer3/assets/143534987/5f3c3d81-1a87-4fe4-8187-8aa9c122336e)
+ >![image](https://github.com/IANDORA87/engineer3/assets/143534987/1548c966-5cbf-4f4d-8db8-6fc8cbff92bb)
 
 
  
