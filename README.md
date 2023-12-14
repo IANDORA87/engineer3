@@ -480,7 +480,9 @@ Enter the answer into this quiz.
 
 ### Evidence
 
- >![image](https://github.com/IANDORA87/engineer3/assets/143534987/5f3c3d81-1a87-4fe4-8187-8aa9c122336e)
+
+ 
+>![image](https://github.com/IANDORA87/engineer3/assets/143534987/5f3c3d81-1a87-4fe4-8187-8aa9c122336e)
  >![image](https://github.com/IANDORA87/engineer3/assets/143534987/1548c966-5cbf-4f4d-8db8-6fc8cbff92bb)
 
 
@@ -494,4 +496,4 @@ https://cvilleschools.onshape.com/documents/673a5044c29999b47cfc0d74/w/004339190
 
 ### Reflection
 
-The  Certification Prep - Assemblies was kind of hard for me to put it togther. But I fun working on it and enjoy that how hard was it.  
+The  Certification Prep - Assemblies was kind of hard for me to put it togther. But I had fun time working on it and enjoy that how hard was it. it was more challenging and more hard for me but I did. And speend my time on it.
