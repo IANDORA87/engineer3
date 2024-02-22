@@ -497,3 +497,43 @@ https://cvilleschools.onshape.com/documents/673a5044c29999b47cfc0d74/w/004339190
 ### Reflection
 
 The  Certification Prep - Assemblies was kind of hard for me to put it togther. But I had fun time working on it and enjoy that how hard was it. it was more challenging and more hard for me but I did. And speend my time on it.
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+## Robot Gripper Design
+
+
+### Description 
+
+
+Your assignment is to design a basic gripper for a robot arm. There are three major requirements. 
+Requirements:
+    The gripper must close using only one actuator (one servo, one solenoid, one motor, etc)
+    The jaws of the gripper must be able to fully close.
+    All parts of the gripper must be able to be 3D printed, laser cut, or already exist in the engineering lab
+    The gripper must be fully assembled in Onshape with all fasteners, and the assembly must be able to be animated
+ 
+
+### Evidence
+
+
+![image](https://github.com/IANDORA87/engineer3/assets/143534987/4af3fb10-ae10-49c9-aea1-170cc0a57cc5)
+![image](https://github.com/IANDORA87/engineer3/assets/143534987/58e00f18-6a01-4ad8-9622-594ccae8383c)
+![image](https://github.com/IANDORA87/engineer3/assets/143534987/d6085bac-1b2e-45b3-afef-bbe44588d3b4)
+
+
+
+
+ 
+### Part Link 
+
+  
+https://cvilleschools.onshape.com/documents/aa200ee93079dd2ac45327f4/w/58a6ca5dee946519e97edf08/e/9486c7c624c1fd36ecb3eedb?renderMode=0&uiState=65d7762a2eba134f453bc4d2
+
+
+### Reflection
+
+This Robot Gripper Design was easy and fun. The design is robot arm that can be use for many things and help human to pick up things and make human work easyer robot can Control the position of the gripper finger. I like it but it will be help to make whole robot prject 
+and design it and definitely codeing.
+
