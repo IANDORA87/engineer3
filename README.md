@@ -546,16 +546,6 @@ Make the on-board LED turn red, yellow, or green when the rotary encoder is pres
 
 
 
-````
-
-
-````
-
-
-````
-
-
-
 ### Evidence
 
 
@@ -582,13 +572,6 @@ When the limit switch is ON, the motor arm will move back in the opposite direct
 This should be looped continuously. 
 
 
-````
-
-
-````
-
-
-````
 
 
 ### Evidence
@@ -615,11 +598,7 @@ ________________________________________________________________________________
 You assignment is to use an IR sensor to change the color of your board’s NeoPixel LED. 
 Steps:
 Wire up your IR sensor and have your program keep track of whether it is HIGH (something is nearby) or LOW (nothing is near it). 
-
-
 When an object or your hand is nearby, your board’s NeoPixel will turn RED.
-
-
 When nothing is nearby, your board’s NeoPixel will turn GREEN.
 
 
