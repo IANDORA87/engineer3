@@ -557,6 +557,7 @@ Make the on-board LED turn red, yellow, or green when the rotary encoder is pres
 
 
 ### Reflection
+At this assignment I will say that I am not that good at code and I am very slow at code however I did change to this assignment and stop working at stepper motor assignment but I am not done with codeing.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -587,7 +588,7 @@ This should be looped continuously.
 
 
 ### Reflection
-
+At this assignment I will say that I am not that good at code and I am very slow at code however I try my best on this assignment and put a lot of time in this assignment yes I dont have Eviedence becuase I start this assignment than change to other one and forget to take a photo.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -615,7 +616,7 @@ When nothing is nearby, your board’s NeoPixel will turn GREEN.
 
 ### Reflection
 
-
+At this assignment I will say that I am not that good at code and I am very slow at code however I try my best on this assignment and put a lot of time in this assignment yes I dont have Eviedence becuase I didnt start this assignment and had the feel of giveing up because my code website was not working no one help.
 
 
 
