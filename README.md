@@ -618,5 +618,27 @@ When nothing is nearby, your board’s NeoPixel will turn GREEN.
 
 At this assignment I will say that I am not that good at code and I am very slow at code however I try my best on this assignment and put a lot of time in this assignment yes I dont have Eviedence becuase I didnt start this assignment and had the feel of giveing up because my code website was not working no one help.
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Robot Arm Planning
+
+## Design Goal
+ 
+ This design is robot arm the goal of our project we are working on pick and- place robbitic arm picking up objects from one location and placing them in another. 
+
+## Scope
+
+## Schedule
+
+
+## Sketches
+
+ 
+
+## Pseudocode
+
+## Bill of materials
+
+## Risk Mitigation
 
 
