@@ -629,6 +629,43 @@ ________________________________________________________________________________
 ## Scope
 
 ## Schedule
+Week 1 (January 2-5)------------: Continue designs, drawings, initial CAD design .
+
+Week 2 (January 8-12)-----------: Design and CAD ,code for motor.
+
+Week 3 (January 15-19)----------: Continue CAD , Continue code for motor.
+
+Week 4 (January 22-26)----------: Start assembly for onshape parts, motor, Continue coding for motor.
+
+Week 5 (January 29-February 2)--: Continue  for preject, Continue coding.
+
+Week 6 (February 5-9)-----------: Continue assembly for preject, Continue code for motor (work on notebook).
+
+Week 7 (February 12-16)---------: Continue assembly for preject, Continue code for motor (work on notebook).
+
+Week 8 (February 19-23)---------: Continue assembly for preject, Continue code for motor (drwaings of preject).
+
+Week 9 (February 26-March 1)----: Continue assembly for preject, Continue code for motor (drwaings of preject).
+
+Week 10 (March 4-8)-------------: Improve design for motors, strengthen weak points. Add walls and exit point if possible.
+
+Week 11 (March 11-15)-----------: Improve design for motors, strengthen weak points. Add walls and exit point if possible.
+
+Week 12 (March 18-22)-----------: If walls and exit point not added already, add. Perform kinetics tests for the pico, improve cushioning and structure.
+
+Week 13 (March 25-29)-----------: Improve design for motors, strengthen weak points. Add walls and exit point if possible.
+
+Week 15 (April 8-12)------------: Improve drawing and others.
+
+Week 16 (April 15-19)-----------: work on issues for onshape and code.
+
+Week 17 (April 22-26)-----------: Finish with Onshape and code .
+
+Week 18 (April 29-May 3)--------: Finish printing get videos and photos .
+
+Week 19 (May 6-10)--------------: Finish documentation.
+
+Week 20 (May 13-17)-------------: Finish documentation. 
 
 
 ## Sketches
