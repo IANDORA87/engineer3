@@ -623,10 +623,42 @@ ________________________________________________________________________________
 ## Robot Arm Planning
 
 ## Design Goal
- 
- This design is robot arm the goal of our project we are working on pick and- place robbitic arm picking up objects from one location and placing them in another. 
+
+Step 1 - TOP DOWN DESIGN METHOD
+• All of the Parts are modeled in the same
+Part Studio
+• Geometric and dimensional data is shared
+between parts
+• Design intent is consistent across multiple
+parts
+• Multiple parts can be edited at the same
+time
+
+Step 2 - Create the Sketch of the Base
+
+Step 3 - Create the Sketch of the Gripper
+Extrude the Base and the Gripper
+Create Actuator Hole in the Base
+
+Step 4 - Create the Swing Arm
+
+Step 5 - Create the Actuator
+
+Step 6 - Create the Control Arm
+
+Step 7 - Assemble the Gripper Parts
+Using Mates
+
+Step 8 - Animate the Gripper Action
+
+This design is robot arm the goal of our project we are working on pick and- place robbitic arm picking up objects from one location and placing them in another. 
+
 
 ## Scope
+
+
+
+
 
 ## Schedule
 Week 1 (January 2-5)------------: Continue designs, drawings, initial CAD design .
@@ -667,12 +699,15 @@ Week 19 (May 6-10)--------------: Finish documentation.
 
 Week 20 (May 13-17)-------------: Finish documentation. 
 
-
 ## Sketches
 
- 
-
 ## Pseudocode
+
+## LinkS 
+
+Click for Onshape :)
+
+
 
 ## Bill of materials
 
