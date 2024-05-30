@@ -695,9 +695,11 @@ Week 17 (April 22-26)-----------: Finish with Onshape and code .
 
 Week 18 (April 29-May 3)--------: Finish printing get videos and photos .
 
-Week 19 (May 6-10)--------------: Finish documentation.
+week 19 ( May 3, 18)---------: Finish code and onshape and print also assembly.
 
-Week 20 (May 13-17)-------------: Finish documentation. 
+Week 20 (May 20-30)--------------: Finish documentation.
+
+Week 21 (May 29-31)-------------: Finish documentation. 
 
 ## Sketches
 
