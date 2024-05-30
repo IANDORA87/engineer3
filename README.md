@@ -745,8 +745,8 @@ while True:
 
 ## Links
 
-https://cvilleschools.onshape.com/documents/45a013841ca662a47591e1ff/w/3954e8a8cc011ba53df39d5e/e/5a5578e3d4a967c2c8b67bae?renderMode=0&uiState=66589bc30f48217e21d144c4
 https://docs.google.com/spreadsheets/d/137HGSNZTTR_IkVGg8gcBn5OXVTHr438-3fES2nv-ZDA/edit#gid=0
+https://cvilleschools.onshape.com/documents/45a013841ca662a47591e1ff/w/3954e8a8cc011ba53df39d5e/e/5a5578e3d4a967c2c8b67bae?renderMode=0&uiState=66589d360f48217e21d14c89
 
 ## Bill of materials
 
@@ -754,6 +754,11 @@ https://docs.google.com/spreadsheets/d/137HGSNZTTR_IkVGg8gcBn5OXVTHr438-3fES2nv-
 
 
 ## Risk Mitigation
+
+First risk mitigation that i face with with 
+
+
+## Reflection
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
